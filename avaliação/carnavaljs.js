@@ -1,1 +1,0 @@
-document.getElementById(src="./carnevaleantico.jpg")
